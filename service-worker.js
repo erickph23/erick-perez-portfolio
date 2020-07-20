@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/erick-perez-portfolio/precache-manifest.a95f06bf73c300102de03b15fd14e336.js"
+  "/erick-perez-portfolio/precache-manifest.f39934870ec93359c200976eb59d51df.js"
 );
 
 self.addEventListener('message', (event) => {

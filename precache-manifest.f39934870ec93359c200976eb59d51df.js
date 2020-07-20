@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6da507afe121f4694c912c50c0ca37d6",
+    "revision": "d221616148fe9071d0e3fa0984372053",
     "url": "/erick-perez-portfolio/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/erick-perez-portfolio/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "4f26f4a9b7c1b5acd4bb",
-    "url": "/erick-perez-portfolio/static/css/main.fb6a6e84.chunk.css"
+    "revision": "8600751c5d08588acced",
+    "url": "/erick-perez-portfolio/static/css/main.c26b67d9.chunk.css"
   },
   {
     "revision": "d64a0117ca6d659a3931",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/erick-perez-portfolio/static/js/2.13f5aec8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4f26f4a9b7c1b5acd4bb",
-    "url": "/erick-perez-portfolio/static/js/main.558db883.chunk.js"
+    "revision": "8600751c5d08588acced",
+    "url": "/erick-perez-portfolio/static/js/main.efbffb8e.chunk.js"
   },
   {
     "revision": "ec6c01b7c0baf450919f",
