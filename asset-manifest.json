@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/erick-perez-portfolio/static/css/main.c26b67d9.chunk.css",
-    "main.js": "/erick-perez-portfolio/static/js/main.efbffb8e.chunk.js",
-    "main.js.map": "/erick-perez-portfolio/static/js/main.efbffb8e.chunk.js.map",
+    "main.css": "/erick-perez-portfolio/static/css/main.1121c3c4.chunk.css",
+    "main.js": "/erick-perez-portfolio/static/js/main.0835281f.chunk.js",
+    "main.js.map": "/erick-perez-portfolio/static/js/main.0835281f.chunk.js.map",
     "runtime-main.js": "/erick-perez-portfolio/static/js/runtime-main.e606e9bc.js",
     "runtime-main.js.map": "/erick-perez-portfolio/static/js/runtime-main.e606e9bc.js.map",
     "static/css/2.af3c1da9.chunk.css": "/erick-perez-portfolio/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.13f5aec8.chunk.js": "/erick-perez-portfolio/static/js/2.13f5aec8.chunk.js",
-    "static/js/2.13f5aec8.chunk.js.map": "/erick-perez-portfolio/static/js/2.13f5aec8.chunk.js.map",
+    "static/js/2.5084a993.chunk.js": "/erick-perez-portfolio/static/js/2.5084a993.chunk.js",
+    "static/js/2.5084a993.chunk.js.map": "/erick-perez-portfolio/static/js/2.5084a993.chunk.js.map",
     "index.html": "/erick-perez-portfolio/index.html",
-    "precache-manifest.f39934870ec93359c200976eb59d51df.js": "/erick-perez-portfolio/precache-manifest.f39934870ec93359c200976eb59d51df.js",
+    "precache-manifest.c5cdc455ee418b78cc8df29fd6a54e54.js": "/erick-perez-portfolio/precache-manifest.c5cdc455ee418b78cc8df29fd6a54e54.js",
     "service-worker.js": "/erick-perez-portfolio/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/erick-perez-portfolio/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.c26b67d9.chunk.css.map": "/erick-perez-portfolio/static/css/main.c26b67d9.chunk.css.map",
-    "static/js/2.13f5aec8.chunk.js.LICENSE.txt": "/erick-perez-portfolio/static/js/2.13f5aec8.chunk.js.LICENSE.txt",
+    "static/css/main.1121c3c4.chunk.css.map": "/erick-perez-portfolio/static/css/main.1121c3c4.chunk.css.map",
+    "static/js/2.5084a993.chunk.js.LICENSE.txt": "/erick-perez-portfolio/static/js/2.5084a993.chunk.js.LICENSE.txt",
     "static/media/App.css": "/erick-perez-portfolio/static/media/bg-photo.22dd5272.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e606e9bc.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.13f5aec8.chunk.js",
-    "static/css/main.c26b67d9.chunk.css",
-    "static/js/main.efbffb8e.chunk.js"
+    "static/js/2.5084a993.chunk.js",
+    "static/css/main.1121c3c4.chunk.css",
+    "static/js/main.0835281f.chunk.js"
   ]
 }
