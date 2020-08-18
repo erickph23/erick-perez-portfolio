@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "afee11d3db4a2f7b6067fac71aebd16d",
+    "revision": "d828a70775606ea30dbb76fd4e981d7f",
     "url": "/erick-perez-portfolio/index.html"
   },
   {
-    "revision": "b012e306d9de517aa1a6",
+    "revision": "c3a14d95d8596e11981e",
     "url": "/erick-perez-portfolio/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "bae0ca701abd90e6fc96",
-    "url": "/erick-perez-portfolio/static/css/main.1121c3c4.chunk.css"
+    "revision": "d430c96e34bfdcfb89f7",
+    "url": "/erick-perez-portfolio/static/css/main.fd4872cf.chunk.css"
   },
   {
-    "revision": "b012e306d9de517aa1a6",
-    "url": "/erick-perez-portfolio/static/js/2.5084a993.chunk.js"
+    "revision": "c3a14d95d8596e11981e",
+    "url": "/erick-perez-portfolio/static/js/2.247986bb.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/erick-perez-portfolio/static/js/2.5084a993.chunk.js.LICENSE.txt"
+    "url": "/erick-perez-portfolio/static/js/2.247986bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bae0ca701abd90e6fc96",
-    "url": "/erick-perez-portfolio/static/js/main.0835281f.chunk.js"
+    "revision": "d430c96e34bfdcfb89f7",
+    "url": "/erick-perez-portfolio/static/js/main.b95aba96.chunk.js"
   },
   {
     "revision": "ec6c01b7c0baf450919f",
